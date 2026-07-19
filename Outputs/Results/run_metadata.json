@@ -1,0 +1,21 @@
+{
+  "seed": 20260719,
+  "bunching": {
+    "estimate": 1.84,
+    "ci": [
+      0.99,
+      2.7
+    ]
+  },
+  "response_correspondence": [
+    0.49748743718592964,
+    0.7297297297297297
+  ],
+  "bgfc_scale": 0.7678610443521957,
+  "n_scenarios": 400,
+  "paired_violation_difference_bgfc_minus_nominal_engineering": 0.00020833333333333332,
+  "paired_violation_difference_95ci": [
+    0.0,
+    0.0005208333333333333
+  ]
+}
